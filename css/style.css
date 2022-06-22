@@ -78,10 +78,18 @@ body {
   outline: 0 !important;
 }
 
+.filler {
+  margin-bottom: 9.8em;
+}
+
 hr {
   box-sizing: content-box;
   height: 0;
   overflow: visible;
+}
+
+.col-lg-6 {
+  margin-bottom: 2em;
 }
 
 h1,
